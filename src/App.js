@@ -23,7 +23,7 @@ function App() {
         ) : (
           <>
           <img src={ imageRickMorty} alt="Rick & Morty" className='img-home'></img>
-          <img src=""></img>
+          
 
         <button onClick={reqApi} className='btn-search'>
           Indagar
